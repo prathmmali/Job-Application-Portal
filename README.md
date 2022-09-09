@@ -9,7 +9,7 @@ details. Applicants can browse through the vacancy details that are posted and c
 the jobs online. Employers can browse through the posted resumes and select suitable 
 candidates.
 
-		The proposed system is a web based application which allows applicants and employers 
+The proposed system is a web based application which allows applicants and employers 
 to register their details. Applicants can browse through the vacancy details that are posted and 
 can apply for the jobs online. 
 
