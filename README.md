@@ -1,5 +1,5 @@
 # Job-Application-Portal
-				The present system requires applicants to search through print and visual media for job 
+The present system requires applicants to search through print and visual media for job 
 opportunities. Applicants need to apply for jobs using conventional methods and appear for 
 interview on a specified date at a specified location. Employers need to advertise the vacancies 
 and sort all applicant details, conduct selection procedures and complete the formalities. This 
@@ -14,7 +14,7 @@ to register their details. Applicants can browse through the vacancy details tha
 can apply for the jobs online. 
 
 Modules:
-		The application comprises the following major modules: Job Seeker module , Admin module.
+	The application comprises the following major modules: Job Seeker module , Admin module.
 
 JobSeeker Module :
 		This module provides functionalities for job seekers. Applicants can post their resumes 
